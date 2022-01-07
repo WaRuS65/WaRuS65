@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaRuS65" alt="WaRuS65" /></a> </p>
 
-- 🔭 I’m currently working on **Gothic 3 Multiplayer**
-- 🌱 I’m currently learning **C++, Node.js, Vue.js**
+- 🔭 I’m currently working on **...**
+- 🌱 I’m currently learning **Vue.js**
 - 👨‍💻 All of my open source projects are available at [https://github.com/WaRuS65](https://github.com/WaRuS65)
 - 💬 Ask me about **Lua**
 
