@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **...**
 - 🌱 I’m currently learning **Vue.js**
 - 👨‍💻 All of my open source projects are available at [https://github.com/WaRuS65](https://github.com/WaRuS65)
-- 💬 Ask me about **Lua**
+- 💬 Ask me about **...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
